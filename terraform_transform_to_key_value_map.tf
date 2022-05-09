@@ -1,3 +1,5 @@
+# transform params object into key value map
+
 ### Expected output:
 #{
 #  "app_name" = "crm_api"
