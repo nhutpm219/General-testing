@@ -1,5 +1,8 @@
 #!/bin/python3
 
+#input: 2 5
+#output: 3.5
+
 import math
 import os
 import random
